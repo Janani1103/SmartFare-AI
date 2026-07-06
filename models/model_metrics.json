@@ -1,0 +1,28 @@
+{
+  "Linear Regression": {
+    "MAE": 2.1055,
+    "RMSE": 3.1955,
+    "R2": 0.9621
+  },
+  "Decision Tree": {
+    "MAE": 1.942,
+    "RMSE": 2.6279,
+    "R2": 0.9744
+  },
+  "Random Forest": {
+    "MAE": 1.417,
+    "RMSE": 1.9403,
+    "R2": 0.986
+  },
+  "Gradient Boosting": {
+    "MAE": 1.1176,
+    "RMSE": 1.4491,
+    "R2": 0.9922
+  },
+  "XGBoost": {
+    "MAE": 1.0953,
+    "RMSE": 1.4367,
+    "R2": 0.9923
+  },
+  "_best_model": "XGBoost"
+}

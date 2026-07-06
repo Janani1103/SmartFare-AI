@@ -1,0 +1,10 @@
+# Large model file (exceeds GitHub 100 MB limit — regenerate via model_training.py)
+models/random_forest.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
